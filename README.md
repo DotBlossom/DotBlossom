@@ -1,6 +1,6 @@
 - 나는 최고의 뮤지션이긴 해
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeRuxpair)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DotBlossom)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 노래추천
