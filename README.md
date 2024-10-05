@@ -13,11 +13,14 @@
 
 ## 설띵 preview
 
-### https://github.com/DotBlossom/flask-api-actual
+#### 1. https://github.com/DotBlossom/flask-api-actual
 
 ![스크린샷 2024-10-05 150956](https://github.com/user-attachments/assets/b4ea7299-327a-41d1-83b7-39370220275f)
 
-### https://github.com/DotBlossom/SNSProjectKafkaMixIn
+<br/> 
+<hr/>
+
+#### 2. https://github.com/DotBlossom/SNSProjectKafkaMixIn
 
 ![fsfsf](https://github.com/user-attachments/assets/824eb59a-970d-4692-a90c-8e920605a690)
 
