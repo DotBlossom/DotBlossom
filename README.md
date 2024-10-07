@@ -8,6 +8,8 @@
 - 1002 괴물이 피는 숲 (+1Key) - Dovivi
 - 1004 Hunch Gray - zutomayo
 - 1005 군청 - Yoasobi(ikura, Ayase)
+- 1006 Love Wins All - IU
+- 1007 메아리 - QWER
 
 
 
