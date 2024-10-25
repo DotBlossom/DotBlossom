@@ -19,14 +19,18 @@
 #### Listener를 In(same port) Ex(Integate Port)로 나누어서, 통신 특성 및 데이터 정의에 따라 나눠서 최적화 및 데이터 관리 및 공급 API 용이성 강화
 #### INNER Listener에 2 Type으로 나눠서, IN - IN (data props), EX-IN(event-API-stimulation by pub-sub)으로 관리
 
-### Event-Transactional-block
+<br/> 
+<hr/>
+<br/>
+
+## Event-Transactional-block
     Str[PK] = 0000 0000 0000 0000 , Type FROM(N-layer) To(T-N layer) etc
     PK[0,4,8,12] => key Props
     
     Body : transactional data? , event data container?
 
 
-### 4 data type -> 이 지역 특성에 따른 Data를 Extern, Internal 에서 나눠서 관리
+## 4 data type -> 이 지역 특성에 따른 Data를 Extern, Internal 에서 나눠서 관리
     1. explict(IN)
     2. implict(EX)
     3. interval(IN,EX 지역성에 따른)
