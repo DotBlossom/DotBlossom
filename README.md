@@ -10,9 +10,9 @@
 - 1006 Love Wins All - IU
 - 1007 메아리 - QWER
 
-<br/> 
+
 <hr/>
-<br/>
+
 
 
 ## 4 type of data definiton 및 성질에 의거한 AOP-1Prod[IN]-2Listener[IN, Extern] MSA 구조 (1주차, 1차)
@@ -22,9 +22,7 @@
 #### Listener를 In(same port) Ex(Integate Port)로 나누어서, 통신 특성 및 데이터 정의에 따라 나눠서 최적화 및 데이터 관리 및 공급 API 용이성 강화
 #### INNER Listener에 2 Type으로 나눠서, IN - IN (data props), EX-IN(event-API-stimulation by pub-sub)으로 관리
 
-<br/> 
-<hr/>
-<br/>
+
 
 ## Event-Transactional-block
     Str[PK] = 0000 0000 0000 0000 , Type FROM(N-layer) To(T-N layer) etc
