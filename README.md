@@ -1,6 +1,5 @@
-- 나는 최고의 뮤지션이긴 해
-- 심심할 때마다 코드에 설띵 넣음
 
+- 심심할 때마다 코드에 설명 넣음
 
 
 ## 노래추천
@@ -13,7 +12,24 @@
 
 
 
-## 설띵 preview
+## 4 type of data definiton 및 성질에 의거한 AOP-1Prod[IN]-2Listener[IN, Extern] MSA 구조 (1주차, 1차)
+![aad drawio](https://github.com/user-attachments/assets/4111cf42-ff41-4fb3-b844-ef141f9db5b6)
+
+### Event-Transactional-block
+    Str[PK] = 0000 0000 0000 0000 , Type FROM(N-layer) To(T-N layer) etc
+    PK[0,4,8,12] => key Props
+    
+    Body : transactional data? , event data container?
+
+
+### 4 data type
+    1. explict(IN)
+    2. implict(EX)
+    3. interval(IN,EX 지역성에 따른)
+    4. clusterProps(EX)
+
+
+## 설명 preview
 
 #### 1. https://github.com/DotBlossom/flask-api-actual
 
