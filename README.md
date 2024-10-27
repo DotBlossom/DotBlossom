@@ -37,6 +37,14 @@
     3. interval(IN,EX 지역성에 따른)
     4. clusterProps(EX)
 
+![data 4 tpye drawio](https://github.com/user-attachments/assets/6fef7f90-cb7b-471f-bf40-1c634599f612)
+
+
+
+
+
+
+
 
 ## 설명 preview
 
